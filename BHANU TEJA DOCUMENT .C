@@ -1,8 +1,7 @@
 /* Algorithm
-01. Start
+01. Sta
 02. Accept Principle (p), Rate of interest (r), Time period(t)
-03. Display Simple Interest after evaluating p * t * r / 100
-04. Stop */
+03. Display Simple Interest after evaluatin
 
 # include <stdio.h>
 int main() {
