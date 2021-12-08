@@ -1,7 +1,8 @@
 /* Algorithm
-01. Sta
+01. Start
 02. Accept Principle (p), Rate of interest (r), Time period(t)
 03. Display Simple Interest after evaluatin
+04. stop 
 
 # include <stdio.h>
 int main() {
