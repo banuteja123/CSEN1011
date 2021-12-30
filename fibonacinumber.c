@@ -6,7 +6,7 @@ int main () {
     f=0;
     s=1;
    printf("%d",f);
-    printf("%d",s);
+    printf("%d",s);    
     for  (i=4;i<n;i++)
     {
      p=f+s ;
