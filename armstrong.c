@@ -8,7 +8,7 @@ int main()
 	while(N>0)
 	{
 	 p=N%10;
-	 q=q+(p*p*p);
+	 q=q+(p*p*p*p);
 	 N=N/10;	
 	}
 	if (n==q)
