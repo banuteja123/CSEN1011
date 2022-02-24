@@ -59,7 +59,9 @@
 
 [sem-02](semendexam-02.c)
 
-[sem-02rap](semiend-2 (1).rap)
+[sem-02rap](semend-02.rap.rap)
+
+
 
 
 
