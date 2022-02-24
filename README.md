@@ -1,4 +1,5 @@
 # CSEN1011
+## Summative assessment-1 programs
 
 [fibnocci sequence](fibonacciexam.c)
 
@@ -14,7 +15,7 @@
 
 [primerotation](primerotationexam.c)
 
-## RAPTOR FILES 
+## Summative assessment-1 raptor files
 
 [calculator flow](calculatorflow.c)
 
@@ -30,5 +31,14 @@
 
 
 [actualfactpor](actualfactorflowchart.rap.rap)
+
+## Module 1
+
+[simple and compound interest](simpleandcompoundinterest.c)
+
+[swapping numbers](swaptwonum.c)
+
+
+
 
 
