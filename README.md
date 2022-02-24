@@ -29,14 +29,33 @@
 
 [prime rotation flow](primenumber-rotation-flowchart.rap)
 
-
 [actualfactpor](actualfactorflowchart.rap.rap)
 
 ## Module 1
 
 [simple and compound interest](simpleandcompoundinterest.c)
 
+[marks average](marksaverage.c)
+
 [swapping numbers](swaptwonum.c)
+
+[prime or composite numbers](primeorcomposite.c)
+
+## Module 2
+
+[Arm strong number](armstrong.c)
+
+[perfect number](perfectnumber.c)
+
+[floyd's triangle](floydstriangle.c)
+
+[Half numbers pyramid](halfnumberpyramid.c)
+
+[Half star pyramid](halfstarpyramid.c)
+
+[pascal triangle](pascaltriangle.c)
+
+
 
 
 
