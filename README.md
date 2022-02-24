@@ -55,6 +55,11 @@
 
 [pascal triangle](pascaltriangle.c)
 
+# SEM END EXAM PROGRAMS AND RAP FILES 
+
+[sem-02](semendexam-02.c)
+
+
 
 
 
