@@ -63,6 +63,8 @@
 
 [sem-01rap](semendexam-01.rap)
 
+[sem-01](semendexam-01.c)
+
 
 
 
