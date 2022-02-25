@@ -61,6 +61,9 @@
 
 [sem-02rap](semend-02.rap.rap)
 
+[sem-01rap](semendexam-01.rap)
+
+
 
 
 
